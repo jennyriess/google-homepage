@@ -1,1 +1,3 @@
-Google Hompage Replica for Odin Project
+# odin_project
+
+First Project Pushed to Github!
